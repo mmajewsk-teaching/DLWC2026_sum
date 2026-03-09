@@ -1,6 +1,14 @@
 # Lab 1: Introduction to CUDA Programming
 
-## Setup
+## Setup option A
+
+Install locally
+
+```
+pixi install
+```
+
+## Setup option B
 Using setup from this repo https://github.com/mmajewsk-teaching/ml_env_wfiis/tree/master/ml_env204_pixi then add:
 
 ```bash
