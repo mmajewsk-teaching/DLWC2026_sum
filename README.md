@@ -1,4 +1,9 @@
 ## Deep Learning With Cuda 2026
+### Installing your local env with pixi
+
+```
+pixi install
+```
 
 ### Useful commands
 
