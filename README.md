@@ -22,7 +22,7 @@ pixi shell
 #### If your installation of the environment for some reason doesnt work, you can use mine:
 
 ```
-source /home/dokt/majewski/Public/mlenv204pixi/activate.sh
+source /home/dokt/majewski/Public/mlenv204aisec2/activate.sh
 ```
 
 BUT MIGHT NEED A FLAG WITH NVCC!
