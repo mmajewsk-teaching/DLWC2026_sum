@@ -30,3 +30,11 @@ BUT MIGHT NEED A FLAG WITH NVCC!
 ```
 nvcc -allow-unsupported-compiler ...
 ```
+
+### Ollama 
+
+You can copy the tar file from my public dir
+
+```
+/home/dokt/majewski/Public/ollama_install/ollama-linux-amd64.tar.zst
+```
