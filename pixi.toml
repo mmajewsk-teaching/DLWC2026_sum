@@ -19,6 +19,23 @@ jupytext = "*"
 scikit-learn = "*"
 transformers = "*"
 nltk = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-ollama = "*"
+langgraph = "*"
+torchvision = { version = "*", channel = "pytorch" }
+pillow = "*"
+tqdm = "*"
+fastapi = "*"
+uvicorn = "*"
+sqlalchemy = ">=2.0"
+pydantic = "*"
+requests = "*"
+httpx = "*"
+loguru = "*"
+
+[pypi-dependencies]
+sqlite-vec = "*"
 
 [feature.cuda.dependencies]
 cuda = { version = "*", channel = "nvidia/label/cuda-11.8.0" }
