@@ -22,11 +22,19 @@ pixi shell
 #### If your installation of the environment for some reason doesnt work, you can use mine:
 
 ```
-source /home/dokt/majewski/Public/mlenv204aisec2/activate.sh
+source /home/dokt/majewski/Public/mlenv204dlwcaa/activate.sh
 ```
 
 BUT MIGHT NEED A FLAG WITH NVCC!
 
 ```
 nvcc -allow-unsupported-compiler ...
+```
+
+### Ollama 
+
+You can copy the tar file from my public dir
+
+```
+/home/dokt/majewski/Public/ollama_install/ollama-linux-amd64.tar.zst
 ```
